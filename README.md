@@ -22,3 +22,6 @@ Big Systems
 * [Recommender System](https://en.wikipedia.org/wiki/Recommender_system)
 * [Cold start problem](https://en.wikipedia.org/wiki/Cold_start)
 * [Item-item collaborative filtering](https://en.wikipedia.org/wiki/Item-item_collaborative_filtering)
+
+** Caching
+* [Design a Cache System](http://blog.gainlo.co/index.php/2016/05/17/design-a-cache-system/)
