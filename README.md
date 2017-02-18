@@ -19,4 +19,5 @@ Big Systems
 ## Recommendation systems
 * [Amazon recommendation syste](http://stackoverflow.com/questions/2323768/how-does-the-amazon-recommendation-feature-work)
 * [Youtube recommendation system design](http://blog.gainlo.co/index.php/2016/05/24/design-a-recommendation-system/)
-
+* [Recommender System](https://en.wikipedia.org/wiki/Recommender_system)
+* [Cold start problem](https://en.wikipedia.org/wiki/Cold_start)
