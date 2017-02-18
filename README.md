@@ -21,3 +21,4 @@ Big Systems
 * [Youtube recommendation system design](http://blog.gainlo.co/index.php/2016/05/24/design-a-recommendation-system/)
 * [Recommender System](https://en.wikipedia.org/wiki/Recommender_system)
 * [Cold start problem](https://en.wikipedia.org/wiki/Cold_start)
+* [Item-item collaborative filtering](https://en.wikipedia.org/wiki/Item-item_collaborative_filtering)
