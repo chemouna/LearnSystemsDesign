@@ -27,7 +27,14 @@ Big Systems
 * [Design a Cache System](http://blog.gainlo.co/index.php/2016/05/17/design-a-cache-system/)
 * [Cache](https://en.wikipedia.org/wiki/Cache_(computing))
 * [Cache replacement policies](https://en.wikipedia.org/wiki/Cache_replacement_policies)
-
-## Useful Projects
-* [ZooKeeper](https://en.wikipedia.org/wiki/Apache_ZooKeeper)
 * [Memcached](https://en.wikipedia.org/wiki/Memcached)
+
+## Communication Protocols
+* [Apache Thrift](https://en.wikipedia.org/wiki/Apache_Thrift)
+
+## Data management 
+* [Apache HBase](https://en.wikipedia.org/wiki/Apache_HBase)
+
+## Distributed Systems 
+* [ZooKeeper](https://en.wikipedia.org/wiki/Apache_ZooKeeper)
+
