@@ -43,3 +43,4 @@ Big Systems
 
 ## Availability
 * [Regions and Availability Zones](https://blog.rackspace.com/aws-101-regions-availability-zones)
+* [Load balancing](https://en.wikipedia.org/wiki/Load_balancing_(computing))
