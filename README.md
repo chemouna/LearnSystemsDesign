@@ -12,7 +12,7 @@
 * [System Design for Big Data [tinyurl]](http://n00tc0d3r.blogspot.fr/2013/09/big-data-tinyurl.html)
 * [How to code a URL shortener?](http://stackoverflow.com/questions/742013/how-to-code-a-url-shortener)
 
-Big Systems 
+## Big Systems 
 * [Behind the Scenes of a Google Query](http://blogoscoped.com/archive/2008-07-08-n70.html)
 
 ## Recommendation systems
@@ -40,6 +40,7 @@ Big Systems
 
 ## Distributed Systems 
 * [ZooKeeper](https://en.wikipedia.org/wiki/Apache_ZooKeeper)
+* [Content Delivery Network](https://en.wikipedia.org/wiki/Content_delivery_network)
 
 ## Availability
 * [Regions and Availability Zones](https://blog.rackspace.com/aws-101-regions-availability-zones)
