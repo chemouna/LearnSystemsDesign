@@ -41,3 +41,5 @@ Big Systems
 ## Distributed Systems 
 * [ZooKeeper](https://en.wikipedia.org/wiki/Apache_ZooKeeper)
 
+## Availability
+* [Regions and Availability Zones](https://blog.rackspace.com/aws-101-regions-availability-zones)
