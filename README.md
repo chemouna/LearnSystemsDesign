@@ -6,7 +6,6 @@
 * [http://blog.gainlo.co/index.php/2016/02/17/system-design-interview-question-how-to-design-twitter-part-1/](http://blog.gainlo.co/index.php/2016/02/17/system-design-interview-question-how-to-design-twitter-part-1/)
 * [How to Design Twitter (Part 2)](http://blog.gainlo.co/index.php/2016/02/24/system-design-interview-question-how-to-design-twitter-part-2/)
 
-
 ## Server API Design 
 
 ## Big Data 
@@ -31,6 +30,7 @@ Big Systems
 
 ## Communication Protocols
 * [Apache Thrift](https://en.wikipedia.org/wiki/Apache_Thrift)
+* [Finagle: A Protocol-Agnostic RPC System](https://blog.twitter.com/2011/finagle-a-protocol-agnostic-rpc-system)
 
 ## Data management 
 * [Apache HBase](https://en.wikipedia.org/wiki/Apache_HBase)
