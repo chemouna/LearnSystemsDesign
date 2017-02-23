@@ -49,3 +49,5 @@
 ## Examples
 * [Crack the System Design Interview](http://www.puncsky.com/blog/2016/02/14/crack-the-system-design-interview/)
 * [Evolution of Aoundcloud Architecture](https://developers.soundcloud.com/blog/evolution-of-soundclouds-architecture)
+* [What exactly happens when you browse a website in your browser ?](http://superuser.com/questions/31468/what-exactly-happens-when-you-browse-a-website-in-your-browser)
+* [How the web works](https://github.com/vasanthk/how-web-works)
