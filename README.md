@@ -48,3 +48,4 @@
 
 ## Examples
 * [Crack the System Design Interview](http://www.puncsky.com/blog/2016/02/14/crack-the-system-design-interview/)
+* [Evolution of Aoundcloud Architecture](https://developers.soundcloud.com/blog/evolution-of-soundclouds-architecture)
