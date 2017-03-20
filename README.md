@@ -55,6 +55,9 @@
 ## Back-of-the-envelope calculation
 * [Numbers Everyone Should Know](https://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/)
 
+## Cluster management 
+* [Apache Mesos](https://en.wikipedia.org/wiki/Apache_Mesos)
+
 ## Examples
 * [Crack the System Design Interview](http://www.puncsky.com/blog/2016/02/14/crack-the-system-design-interview/)
 * [Evolution of Aoundcloud Architecture](https://developers.soundcloud.com/blog/evolution-of-soundclouds-architecture)
