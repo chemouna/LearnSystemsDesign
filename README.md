@@ -8,6 +8,7 @@
 
 ## Systems
 * [A 360 Degree View Of The Entire Netflix Stack](http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html)
+* [Netflix's Viewing Data: How We Know Where You Are in House of Cards](http://techblog.netflix.com/2015/01/netflixs-viewing-data-how-we-know-where.html)
 
 ## Server API Design 
 
