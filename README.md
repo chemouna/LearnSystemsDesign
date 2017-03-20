@@ -34,6 +34,7 @@
 
 ## Data management 
 * [Apache HBase](https://en.wikipedia.org/wiki/Apache_HBase)
+* [LevelDB](https://en.wikipedia.org/wiki/LevelDB)
 
 ## Performance
 * [Varnish (HTTP Accelerator)](https://en.wikipedia.org/wiki/Varnish_(software))
