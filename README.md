@@ -40,6 +40,7 @@
 * [LevelDB](https://en.wikipedia.org/wiki/LevelDB)
 * [LevelDB and Node: What is LevelDB Anyway ?](http://dailyjs.com/post/leveldb-and-node-1)
 * [6 Lessons From Dropbox - One Million Files Saved Every 15 Minutes](http://highscalability.com/blog/2011/3/14/6-lessons-from-dropbox-one-million-files-saved-every-15-minu.html)
+* [How and why LinkedIn is becoming an engineering powerhouse](https://gigaom.com/2013/03/03/how-and-why-linkedin-is-becoming-an-engineering-powerhouse/)
 
 ## Performance
 * [Varnish (HTTP Accelerator)](https://en.wikipedia.org/wiki/Varnish_(software))
@@ -51,6 +52,9 @@
 ## Availability
 * [Regions and Availability Zones](https://blog.rackspace.com/aws-101-regions-availability-zones)
 * [Load balancing](https://en.wikipedia.org/wiki/Load_balancing_(computing))
+
+## Latency
+* [3 shades of latency: How Netflix built a data architecture around timeliness](https://gigaom.com/2013/03/28/3-shades-of-latency-how-netflix-built-a-data-architecture-around-timeliness/)
 
 ## Back-of-the-envelope calculation
 * [Numbers Everyone Should Know](https://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/)
