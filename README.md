@@ -35,6 +35,7 @@
 ## Data management 
 * [Apache HBase](https://en.wikipedia.org/wiki/Apache_HBase)
 * [LevelDB](https://en.wikipedia.org/wiki/LevelDB)
+* [LevelDB and Node: What is LevelDB Anyway ?](http://dailyjs.com/post/leveldb-and-node-1)
 
 ## Performance
 * [Varnish (HTTP Accelerator)](https://en.wikipedia.org/wiki/Varnish_(software))
