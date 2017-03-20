@@ -46,6 +46,9 @@
 * [Regions and Availability Zones](https://blog.rackspace.com/aws-101-regions-availability-zones)
 * [Load balancing](https://en.wikipedia.org/wiki/Load_balancing_(computing))
 
+## Back-of-the-envelope calculation
+* [Numbers Everyone Should Know](https://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/)
+
 ## Examples
 * [Crack the System Design Interview](http://www.puncsky.com/blog/2016/02/14/crack-the-system-design-interview/)
 * [Evolution of Aoundcloud Architecture](https://developers.soundcloud.com/blog/evolution-of-soundclouds-architecture)
