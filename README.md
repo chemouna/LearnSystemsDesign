@@ -50,7 +50,7 @@
 ## Distributed Systems 
 * [ZooKeeper](https://en.wikipedia.org/wiki/Apache_ZooKeeper)
 * [Content Delivery Network](https://en.wikipedia.org/wiki/Content_delivery_network)
-
+*
 ## Availability
 * [Regions and Availability Zones](https://blog.rackspace.com/aws-101-regions-availability-zones)
 * [Load balancing](https://en.wikipedia.org/wiki/Load_balancing_(computing))
@@ -58,6 +58,7 @@
 ## Scaling 
 * [What Second Life can teach your datacenter about scaling Web apps](https://arstechnica.com/business/2010/02/what-second-life-can-teach-all-companies-about-scaling-web-apps/)
 * [Apache Spark](https://en.wikipedia.org/wiki/Apache_Spark)
+* [Cluster Manager](https://en.wikipedia.org/wiki/Cluster_manager)
 
 ## Latency
 * [3 shades of latency: How Netflix built a data architecture around timeliness](https://gigaom.com/2013/03/28/3-shades-of-latency-how-netflix-built-a-data-architecture-around-timeliness/)
