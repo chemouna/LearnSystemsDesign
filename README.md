@@ -72,3 +72,4 @@
 * [What exactly happens when you browse a website in your browser ?](http://superuser.com/questions/31468/what-exactly-happens-when-you-browse-a-website-in-your-browser)
 * [How the web works](https://github.com/vasanthk/how-web-works)
 * [Design News Feed System](http://blog.gainlo.co/index.php/2016/03/29/design-news-feed-system-part-1-system-design-interview-questions/)
+* [How FarmVille Scales To Harvest 75 Million Players A Month](http://highscalability.com/blog/2010/2/8/how-farmville-scales-to-harvest-75-million-players-a-month.html)
