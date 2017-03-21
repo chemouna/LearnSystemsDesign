@@ -71,3 +71,4 @@
 * [Evolution of Aoundcloud Architecture](https://developers.soundcloud.com/blog/evolution-of-soundclouds-architecture)
 * [What exactly happens when you browse a website in your browser ?](http://superuser.com/questions/31468/what-exactly-happens-when-you-browse-a-website-in-your-browser)
 * [How the web works](https://github.com/vasanthk/how-web-works)
+* [Design News Feed System](http://blog.gainlo.co/index.php/2016/03/29/design-news-feed-system-part-1-system-design-interview-questions/)
