@@ -66,6 +66,7 @@
 ## Back-of-the-envelope calculation
 * [Numbers Everyone Should Know](https://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/)
 * [HOW TO MAKE BACK-OF-THE-ENVELOPE CALCULATIONS](http://book.bionumbers.org/how-to-make-back-of-the-envelope-calculations/)
+* [Google Pro Tip: Use Back-Of-The-Envelope-Calculations To Choose The Best Design](http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html)
 
 ## Cluster management 
 * [Apache Mesos](https://en.wikipedia.org/wiki/Apache_Mesos)
