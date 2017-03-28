@@ -61,6 +61,7 @@
 * [Cluster Manager](https://en.wikipedia.org/wiki/Cluster_manager)
 * [Architecting Scalable Applications in the Cloud: The Caching Tier](http://www.rightscale.com/blog/enterprise-cloud-strategies/architecting-scalable-applications-cloud-caching-tier)
 * [Scalability for Dummies - Part 1: Clones](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
+* [Scalability for Dummies - Part 2: Database](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
 
 ## Latency
 * [3 shades of latency: How Netflix built a data architecture around timeliness](https://gigaom.com/2013/03/28/3-shades-of-latency-how-netflix-built-a-data-architecture-around-timeliness/)
