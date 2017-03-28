@@ -76,6 +76,7 @@
 
 ## Batch Processing
 * [Batch Processing](https://en.wikipedia.org/wiki/Batch_processing)
+* [Scalability for Dummies - Part 4: Asynchronism](http://www.lecloud.net/post/9699762917/scalability-for-dummies-part-4-asynchronism)
 
 ## Failures PostMortems
 
