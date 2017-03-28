@@ -60,6 +60,7 @@
 * [Apache Spark](https://en.wikipedia.org/wiki/Apache_Spark)
 * [Cluster Manager](https://en.wikipedia.org/wiki/Cluster_manager)
 * [Architecting Scalable Applications in the Cloud: The Caching Tier](http://www.rightscale.com/blog/enterprise-cloud-strategies/architecting-scalable-applications-cloud-caching-tier)
+* [Scalability for Dummies - Part 1: Clones](http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones)
 
 ## Latency
 * [3 shades of latency: How Netflix built a data architecture around timeliness](https://gigaom.com/2013/03/28/3-shades-of-latency-how-netflix-built-a-data-architecture-around-timeliness/)
