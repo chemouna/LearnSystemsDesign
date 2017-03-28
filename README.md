@@ -81,6 +81,7 @@
 
 ## Caching 
 * [Coding for a Scalable Concurrent Cache in Java](https://shreyask.wordpress.com/2013/09/21/coding-for-a-scalable-concurrent-cache-in-java/)
+* [Scalability for Dummies - Part 3: Cache](http://www.lecloud.net/post/9246290032/scalability-for-dummies-part-3-cache)
 
 ## Examples
 * [Crack the System Design Interview](http://www.puncsky.com/blog/2016/02/14/crack-the-system-design-interview/)
