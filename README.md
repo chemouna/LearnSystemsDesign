@@ -59,6 +59,7 @@
 * [What Second Life can teach your datacenter about scaling Web apps](https://arstechnica.com/business/2010/02/what-second-life-can-teach-all-companies-about-scaling-web-apps/)
 * [Apache Spark](https://en.wikipedia.org/wiki/Apache_Spark)
 * [Cluster Manager](https://en.wikipedia.org/wiki/Cluster_manager)
+* [Architecting Scalable Applications in the Cloud: The Caching Tier](http://www.rightscale.com/blog/enterprise-cloud-strategies/architecting-scalable-applications-cloud-caching-tier)
 
 ## Latency
 * [3 shades of latency: How Netflix built a data architecture around timeliness](https://gigaom.com/2013/03/28/3-shades-of-latency-how-netflix-built-a-data-architecture-around-timeliness/)
