@@ -66,6 +66,7 @@
 
 ## Latency
 * [3 shades of latency: How Netflix built a data architecture around timeliness](https://gigaom.com/2013/03/28/3-shades-of-latency-how-netflix-built-a-data-architecture-around-timeliness/)
+* [Understanding Latency versus Throughput](https://community.cadence.com/cadence_blogs_8/b/sd/archive/2010/09/13/understanding-latency-vs-throughput)
 
 ## Back-of-the-envelope calculation
 * [Numbers Everyone Should Know](https://everythingisdata.wordpress.com/2009/10/17/numbers-everyone-should-know/)
