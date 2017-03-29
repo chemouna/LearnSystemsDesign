@@ -64,6 +64,7 @@
 * [Scalability for Dummies - Part 2: Database](http://www.lecloud.net/post/7994751381/scalability-for-dummies-part-2-database)
 * [A Word on Scalability](http://www.allthingsdistributed.com/2006/03/a_word_on_scalability.html)
 * [Scalable System Design Patterns](http://horicky.blogspot.fr/2010/10/scalable-system-design-patterns.html)
+* [Scalable System Design](http://horicky.blogspot.fr/2008/02/scalable-system-design.html)
 
 ## CAP Theorem 
 * [CAP Theorem: Revisited](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
