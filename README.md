@@ -103,3 +103,4 @@
 * [Design News Feed System](http://blog.gainlo.co/index.php/2016/03/29/design-news-feed-system-part-1-system-design-interview-questions/)
 * [How FarmVille Scales To Harvest 75 Million Players A Month](http://highscalability.com/blog/2010/2/8/how-farmville-scales-to-harvest-75-million-players-a-month.html)
 * [How Facebook Handled The New Year's Eve Onslaught](http://highscalability.com/blog/2012/1/4/how-facebook-handled-the-new-years-eve-onslaught.html)
+* [Why Writing Your Own Search Engine is Hard](http://queue.acm.org/detail.cfm?id=988407)
