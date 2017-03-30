@@ -104,3 +104,4 @@
 * [How FarmVille Scales To Harvest 75 Million Players A Month](http://highscalability.com/blog/2010/2/8/how-farmville-scales-to-harvest-75-million-players-a-month.html)
 * [How Facebook Handled The New Year's Eve Onslaught](http://highscalability.com/blog/2012/1/4/how-facebook-handled-the-new-years-eve-onslaught.html)
 * [Why Writing Your Own Search Engine is Hard](http://queue.acm.org/detail.cfm?id=988407)
+* [Design TinyUrl](http://n00tc0d3r.blogspot.co.uk/2013/09/big-data-tinyurl.html)
