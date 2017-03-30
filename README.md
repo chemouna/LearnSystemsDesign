@@ -16,6 +16,7 @@
 ## Big Data 
 * [System Design for Big Data [tinyurl]](http://n00tc0d3r.blogspot.fr/2013/09/big-data-tinyurl.html)
 * [How to code a URL shortener?](http://stackoverflow.com/questions/742013/how-to-code-a-url-shortener)
+* [System Design for Big Data [Consistent Hashing]](http://n00tc0d3r.blogspot.co.uk/2013/09/big-data-consistent-hashing.html)
 
 ## Big Systems 
 * [Behind the Scenes of a Google Query](http://blogoscoped.com/archive/2008-07-08-n70.html)
