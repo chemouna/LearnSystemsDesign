@@ -106,3 +106,4 @@
 * [How Facebook Handled The New Year's Eve Onslaught](http://highscalability.com/blog/2012/1/4/how-facebook-handled-the-new-years-eve-onslaught.html)
 * [Why Writing Your Own Search Engine is Hard](http://queue.acm.org/detail.cfm?id=988407)
 * [Design TinyUrl](http://n00tc0d3r.blogspot.co.uk/2013/09/big-data-tinyurl.html)
+* [Create a TinyURL System](http://blog.gainlo.co/index.php/2016/03/08/system-design-interview-question-create-tinyurl-system/)
