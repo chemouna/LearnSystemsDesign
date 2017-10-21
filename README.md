@@ -107,3 +107,5 @@
 * [Why Writing Your Own Search Engine is Hard](http://queue.acm.org/detail.cfm?id=988407)
 * [Design TinyUrl](http://n00tc0d3r.blogspot.co.uk/2013/09/big-data-tinyurl.html)
 * [Create a TinyURL System](http://blog.gainlo.co/index.php/2016/03/08/system-design-interview-question-create-tinyurl-system/)
+* [Rethinking Full Text Search (Part 1)](https://idea.popcount.org/2012-07-02-rethinking-full-text-search/)
+* [Rethinkg Full Text Search (Part 2)](https://idea.popcount.org/2012-07-25-introduction-to-hamt/)
