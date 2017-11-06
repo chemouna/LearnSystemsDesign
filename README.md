@@ -70,6 +70,7 @@
 * [Scalable System Design Patterns](http://horicky.blogspot.fr/2010/10/scalable-system-design-patterns.html)
 * [Scalable System Design](http://horicky.blogspot.fr/2008/02/scalable-system-design.html)
 * [Scaling Pinterest - From 0 To 10s Of Billions Of Page Views A Month In Two Years](http://highscalability.com/blog/2013/4/15/scaling-pinterest-from-0-to-10s-of-billions-of-page-views-a.html)
+* [How Google Invented An Amazing Datacenter Network Only They Could Created](http://highscalability.com/blog/2015/8/10/how-google-invented-an-amazing-datacenter-network-only-they.html)
 
 ## CAP Theorem 
 * [CAP Theorem: Revisited](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
