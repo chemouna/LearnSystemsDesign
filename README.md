@@ -10,7 +10,7 @@
 * [A 360 Degree View Of The Entire Netflix Stack](http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html)
 * [Netflix's Viewing Data: How We Know Where You Are in House of Cards](http://techblog.netflix.com/2015/01/netflixs-viewing-data-how-we-know-where.html)
 * [Facebook an example of canonical architecture for scaling billions of messages](http://highscalability.com/blog/2011/5/17/facebook-an-example-canonical-architecture-for-scaling-billi.html)
-
+* []
 ## Server API Design 
 
 ## Big Data 
@@ -33,6 +33,7 @@
 * [Cache](https://en.wikipedia.org/wiki/Cache_(computing))
 * [Cache replacement policies](https://en.wikipedia.org/wiki/Cache_replacement_policies)
 * [Memcached](https://en.wikipedia.org/wiki/Memcached)
+* [Design Of A Modern Cache](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
 
 ## Communication Protocols
 * [Apache Thrift](https://en.wikipedia.org/wiki/Apache_Thrift)
@@ -54,10 +55,12 @@
 ## Distributed Systems 
 * [ZooKeeper](https://en.wikipedia.org/wiki/Apache_ZooKeeper)
 * [Content Delivery Network](https://en.wikipedia.org/wiki/Content_delivery_network)
-*
+* [Getting Real About Distributed System Reliability](http://blog.empathybox.com/post/19574936361/getting-real-about-distributed-system-reliability)
+
 ## Availability
 * [Regions and Availability Zones](https://blog.rackspace.com/aws-101-regions-availability-zones)
 * [Load balancing](https://en.wikipedia.org/wiki/Load_balancing_(computing))
+* [The Netflix Simian Army](https://medium.com/netflix-techblog/the-netflix-simian-army-16e57fbab116)
 
 ## Scaling 
 * [What Second Life can teach your datacenter about scaling Web apps](https://arstechnica.com/business/2010/02/what-second-life-can-teach-all-companies-about-scaling-web-apps/)
@@ -74,6 +77,9 @@
 
 ## CAP Theorem 
 * [CAP Theorem: Revisited](http://robertgreiner.com/2014/08/cap-theorem-revisited/)
+
+## Replication 
+* [Multi-master replication](https://en.wikipedia.org/wiki/Multi-master_replication)
 
 ## Latency
 * [3 shades of latency: How Netflix built a data architecture around timeliness](https://gigaom.com/2013/03/28/3-shades-of-latency-how-netflix-built-a-data-architecture-around-timeliness/)
@@ -110,3 +116,4 @@
 * [Create a TinyURL System](http://blog.gainlo.co/index.php/2016/03/08/system-design-interview-question-create-tinyurl-system/)
 * [Rethinking Full Text Search (Part 1)](https://idea.popcount.org/2012-07-02-rethinking-full-text-search/)
 * [Rethinkg Full Text Search (Part 2)](https://idea.popcount.org/2012-07-25-introduction-to-hamt/)
+* [7 Years Of YouTube Scalability Lessons In 30 Minutes](http://highscalability.com/blog/2012/3/26/7-years-of-youtube-scalability-lessons-in-30-minutes.html)
